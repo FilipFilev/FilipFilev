@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="300"/>
 </div>
 Hello, i'm Filip from Sofia, Bulgaria. Student of SoftUni.
 
