@@ -23,6 +23,7 @@ Hello, i'm Filip from Sofia, Bulgaria. Student of SoftUni.
 
 ### :fire: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FilipFilev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=FilipFilev&style=for-the-badge&color=brightgreen)
 
 
