@@ -21,7 +21,7 @@
 
 
 ### :fire: My Stats : 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FilipFIlev&theme=dark&hide_border=true&type=png&currStreakNum=29EB33&ring=EBC63F&fire=EB5454&dates=C22EEB&sideNums=EB5C1A)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FilipFilev&theme=dark)](https://git.io/streak-stats)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=FilipFilev&style=for-the-badge&color=brightgreen)
 
