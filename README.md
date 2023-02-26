@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="300"/>
-</div>Hello, i'm Filip from Sofia, Bulgaria. Student of SoftUni..
+</div>Hello, i'm Filip from Sofia, Bulgaria. Student of SoftUni.
 
 - :telescope: I have been working as a specialist in computer networks and systems for 6 years.
 
